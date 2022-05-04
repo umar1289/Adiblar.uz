@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917341155900",
+    "firebase_url": "https://adiblaruz-default-rtdb.firebaseio.com",
+    "project_id": "adiblaruz",
+    "storage_bucket": "adiblaruz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917341155900:android:91f6aab85db9d960e6c939",
+        "android_client_info": {
+          "package_name": "com.test.adiblaruz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917341155900-kmq1ip2eiso9h7v920qd44fvem86dl5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNsS4x_QjHvPszl0BlCRGnizay0VztJLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917341155900-kmq1ip2eiso9h7v920qd44fvem86dl5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

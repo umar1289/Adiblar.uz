@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_adib_info.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_adib_qoshish.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_adiblar_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_dastur_info.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_jahon_adabiyoti.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_mumtoz_adabiyot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_ozbek_adabiyoti.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_saqlangan_adiblar_list.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_search_adib.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_search_saqlangan_adib.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/item_custom_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/item_rv_adib.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/layout/item_tab_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/mipmap-anydpi-v26/ic_launcher1.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Adiblaruz/app/src/main/res/mipmap-anydpi-v26/ic_launcher1_round.xml" value="0.19907407407407407" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.17980072463768115" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
